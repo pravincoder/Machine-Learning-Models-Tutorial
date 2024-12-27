@@ -1,0 +1,73 @@
+Course,Hole,Club Type,Shot Distance in Yards,Power,Above Below Break,Shot Outcome in Yards,Break,Lie of the Ball,Texture of Ground,,Made Green,Made Hole,Made Fairway,Made Rough,Tournament Yards,Score,Mistake,Temperature,Sky,Humidity,Wind,Precipitation,Pressure in Inches,Cloud Cover,Dew Point,Date,Tee Time
+Heartwell,1,Driver,116,,,108,Drive,Downhill,,,No,No,No,Yes,121,5,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,1,SW,8,,,5,Chip,Uphill,,,Yes,No,No,No,121,5,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,1,Putter,3,,Above Break,3,Putt,Downhill,,Right,No,No,No,No,121,5,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,2,Hybrid,112,,,70,Drive,Downhill,,,No,No,Yes,No,123,6,Hit Left Tree,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,2,PW,42,,,50,Drive,Uphill,,,Yes,No,No,No,123,6,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,2,Putter,8,,Above Break,8,Putt,Downhill,,Right,No,No,No,No,123,6,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,3,6i,93,,,93 8 from left,Drive,Downhill,,,Yes,No,No,No,85,3,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,3,Putter,8,,Below Break,7 below break,Putt,Uphill,,Left,No,No,No,No,85,3,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,4,5i,109,,,88 short right rough,Drive,Downhill,,,No,No,No,Yes,109,5,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,4,SW,21,,,9 short,Chip,Uphill,,,No,No,No,Yes,109,5,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,4,PW,12,,,17 long,Chip,Uphill,,,Yes,No,No,No,109,5,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,4,Putter,5,,Above Break,5,Putt,Flat,,Left,No,No,No,No,109,5,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,5,5i,110,,,110 right off green,Drive,Downhill,,,No,No,No,Yes,110,5,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,5,SW,23,,,10 short,Chip,Uphill,,,No,No,Yes,No,110,5,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,5,PW,13,,,13 on green,Chip,Uphill,,,Yes,No,No,No,110,5,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,5,Putter,8,,Below Break,8,Putt,Downhill,,Right,No,No,No,No,110,5,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,6,Hybrid,109,,,109 5 from left,Drive,Downhill,,,Yes,No,No,No,107,3,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,6,Putter,5,,Below Break,5,Putt,Uphill,,Right,No,No,No,No,107,3,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,7,Hybrid,108,,,108 8 from left,Drive,Downhill,,,Yes,No,No,No,106,3,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,7,Putter,8,,Above Break,8,Putt,Downhill,,Right,No,No,No,No,106,3,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,8,FD,124,,,123 12 from right,Drive,Downhill,,,Yes,No,No,No,124,3,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,8,Putter,12,,Below Break,12,Putt,Downhill,,Left,No,No,No,No,124,3,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,9,Driver,134,,,128 short,Drive,Downhill,,,Yes,No,No,No,134,3,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,9,Putter,6,,Below Break,6,Putt,Uphill,,Right,No,No,No,No,134,3,,60 °F,Mostly Cloudy,70%,6 mph Wind WSW,1%,30.16,69%,50 F,Sat 12/21/2024,12:12 PM
+Heartwell,1,Hybrid,117,1 shoe,,117 from right on fringe,Drive,Downhill,,,No,No,No,Yes,121,4,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,1,Putter,10,,Above Break,12,Putt,Uphill,,Left,No,No,No,No,121,4,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,2,Hybrid,123,1 shoe,,123 off green left,Drive,Downhill,,,No,No,No,Yes,123,6,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,2,PW,35,,,15 hit tree,Chip,,,,No,No,No,Yes,123,6,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,2,PW,20,,,27 passed hole on fringe,Chip,,,,Yes,No,No,No,123,6,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,2,Putter,7,,Above Break,6,Putt,,,Left,No,No,No,No,123,6,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,3,8i,74,large,,74,Drive,Downhill,,,Yes,No,No,No,85,3,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,3,Putter,2,,Passed Hole,2,Putt,Flat,,Straight,No,No,No,No,85,3,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,4,5i,108,1 shoe,,108,Drive,Downhill,,,No,No,No,Yes,113,4,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,4,Putter,10,,Above Break,13,,Uphill,,Right,Yes,No,No,No,113,4,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,5,Hybrid,110,,,105 short tip near bunker,Drive,,,,No,No,No,Yes,110,5,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,5,PW,14,,,18,,,,,No,No,No,Yes,110,5,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,5,PW,12,,,12,,,,,Yes,No,No,No,110,5,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,5,Putter,4,large,Above Break,6,,,,Left,No,No,No,No,110,5,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,6,Hybrid,107,,,98 short on green,Drive,,,,Yes,No,No,No,107,3,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,6,Putter,8,1 shoe,Below Break,7,,,,Right,No,No,No,No,107,3,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,7,Hybrid,106,,,106,Drive,,,,Yes,No,No,No,106,3,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,7,Putter,8,1 shoe,Above Break,7,Putt,,,Right,No,No,No,No,106,3,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,8,Driver,122,,,108,Drive,,,,No,No,Yes,No,122,4,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,8,PW,14,,,7,Chip,,,,No,No,No,No,122,4,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,8,Putter,7,1 shoe,Below Break,10,Putt,,,Right,No,No,No,No,122,4,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,9,Driver,135,,,125 short on fringe,Drive,,,,No,No,Yes,No,135,3,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,9,Putter,10,1 shoe,Above Break,7,Putt,,,Right,No,No,No,No,135,3,,63 °F,Fair,75%,8 mph Wind WSW,0%,30.01,69%,55 F,Mon 12/23/2024,3:40 PM
+Heartwell,1,Hybrid,115,Large,,,Drive,,,,,,,,,,,,,,,,,,,,
+Heartwell,1,Putter,7,1 shoe,Above Break,,Putt,,,,,,,,,,,,,,,,,,,,
+Heartwell,1,Putter,1,,,,Putt,,,,,,,,,,,,,,,,,,,,
+Heartwell,2,Hybrid,127,Large,,,Drive,,,,,,,,,,,,,,,,,,,,
+Heartwell,2,PW,24,,,,Chip,,,,,,,,,,,,,,,,,,,,
+Heartwell,2,Putter,4,Large,,,Putt,,,,,,,,,,,,,,,,,,,,
+Heartwell,3,8i,86,Large,,,Drive,,,,,,,,,,,,,,,,,,,,
+Heartwell,3,Putter,11,1-2Shoe,Above,,Putt,,,,,,,,,,,,,,,,,,,,
+Heartwell,3,Putter,1,,,,Putt,,,,,,,,,,,,,,,,,,,,
+Heartwell,4,Hybrid,112,Large,,,Drive,,,,,,,,,,,,,,,,,,,,
+Heartwell,4,PW,30,,,,Chip,,,,,,,,,,,,,,,,,,,,
+Heartwell,4,Putter,5,,Above Break,,Putt,,,,,,,,,,,,,,,,,,,,
+Heartwell,5,FD,120,,,,Drive,,,,,,,,,,,,,,,,,,,,
+Heartwell,5,Putter,9,,Above Break,,Putt,,,,,,,,,,,,,,,,,,,,
+Heartwell,6,FD,117,,,,Drive,,,,,,,,,,,,,,,,,,,,
+Heartwell,6,SW,14,,,,Chip,,,,,,,,,,,,,,,,,,,,
+Heartwell,6,Putter,4,,Below Break,,Putt,,,,,,,,,,,,,,,,,,,,
+Heartwell,7,Hybrid,105,,,,Drive,,,,,,,,,,,,,,,,,,,,
+Heartwell,7,Putter,11,,Above Break,,Putt,,,,,,,,,,,,,,,,,,,,
+Heartwell,7,Putter,2,,,,Putt,,,,,,,,,,,,,,,,,,,,
+Heartwell,8,Hybrid,105,,Above Break,,Putt,,,,,,,,,,,,,,,,,,,,
+Heartwell,8,Putter,7,,,,Drive,,,,,,,,,,,,,,,,,,,,
+Heartwell,9,Driver,143,,,,Drive,,,,,,,,,,,,,,,,,,,,
+Heartwell,9,9i,72,,,,Chip,,,,,,,,,,,,,,,,,,,,
+Heartwell,9,Putter,11,,,,Putt,,,,,,,,,,,,,,,,,,,,
